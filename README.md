@@ -26,7 +26,6 @@ npm run build
 npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to access the laboratory.
 
 ## How It Works
 
@@ -49,7 +48,6 @@ Open [http://localhost:3000](http://localhost:3000) to access the laboratory.
 
 This tool analyzes manipulative patterns, not truth or falsehood. Results should be used as one input among many when evaluating content. Always verify information independently and consider multiple perspectives.
 
-## License
 
 MIT
 "# RealityDistortion-Agent" 
